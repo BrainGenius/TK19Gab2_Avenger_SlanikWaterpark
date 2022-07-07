@@ -1,7 +1,7 @@
 Nama			: 
 	Athia Rahma Khalisa 19311165
 	Abednego Erindra Putra 19311280
-	Andharu Nur Trio Fajri
+	Andharu Nur Trio Fajri 19311274
 Nama Tempat Wisata	: Slanik Waterpark Lampung
 Link Akses Website	: https://braingenius.github.io/TK19Gab2_Avenger_SlanikWaterpark/
 Link Source Code Website: https://github.com/BrainGenius/TK19Gab2_Avenger_SlanikWaterpark.git
